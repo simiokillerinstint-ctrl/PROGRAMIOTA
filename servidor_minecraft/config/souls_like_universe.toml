@@ -1,0 +1,135 @@
+
+[system]
+	#Determines whether to grant starting items at the beginning of the game.
+	"starting item" = true
+	#Determines whether the armor has a passive effect.
+	"armor passive" = true
+	#Determines whether the weapon has a passive effect.
+	"weapon ability" = true
+	#Determines whether the boss will destroy blocks.
+	"bosses break block" = true
+	#Determines whether the slu monster will spawn.
+	"slu monster spawn" = true
+	#Determines whether the boss will gain buff effects.
+	"slu boss buff" = false
+
+["hollow (overworld monster)"]
+	#Determines whether to set the spawn rate of 'hollow' to extremely low.
+	"hollow rare spawn" = true
+
+["nightmare knight (overworld monster)"]
+	#Determines whether to set the spawn rate of 'nightmare knight' to extremely low.
+	"nightmare knight rare spawn" = true
+
+["armed hollow (overworld monster)"]
+	#Determines whether to set the spawn rate of 'armed hollow' to extremely low.
+	"armed hollow rare spawn" = true
+
+["temple guard (overworld monster)"]
+	#Determines whether to set the spawn rate of 'temple guard' to extremely low.
+	"temple guard rare spawn" = true
+
+["knight (overworld monster)"]
+	#Determines whether to set the spawn rate of 'knight' to extremely low.
+	"knight rare spawn" = true
+
+["bad omen giant (overworld monster)"]
+	#Determines whether to set the spawn rate of 'bad omen giant' to extremely low.
+	"bad omen giant rare spawn" = true
+
+["twisted souls (overworld monster)"]
+	#Determines whether to set the spawn rate of 'twisted souls' to extremely low.
+	"twisted souls rare spawn" = true
+
+["hollow soldier (overworld monster)"]
+	#Determines whether to set the spawn rate of 'hollow soldier' to extremely low.
+	"hollow soldier rare spawn" = true
+
+["dungeon knight (overworld monster)"]
+	#Determines whether to set the spawn rate of 'dungeon knight' to extremely low.
+	"dungeon knight rare spawn" = true
+
+["elite knight (overworld monster)"]
+	#Determines whether to set the spawn rate of 'elite knight' to extremely low.
+	"elite knight rare spawn" = true
+
+["castle guard (overworld monster)"]
+	#Determines whether to set the spawn rate of 'castle guard' to extremely low.
+	"castle guard rare spawn" = true
+
+["mad knight (overworld monster)"]
+	#Determines whether to set the spawn rate of 'mad knight' to extremely low.
+	"mad knight rare spawn" = true
+
+["crusader (overworld monster)"]
+	#Determines whether to set the spawn rate of 'crusader' to extremely low.
+	"crusader rare spawn" = true
+
+["thief (overworld monster)"]
+	#Determines whether to set the spawn rate of 'thief' to extremely low.
+	"thief rare spawn" = true
+
+["shadow assassin (overworld monster)"]
+	#Determines whether to set the spawn rate of 'shadow assassin' to extremely low.
+	"shadow assassin rare spawn" = true
+
+["noble knight (overworld monster)"]
+	#Determines whether to set the spawn rate of 'noble knight' to extremely low.
+	"noble knight rare spawn" = true
+
+["hollow knight (overworld monster)"]
+	#Determines whether to set the spawn rate of 'hollow knight' to extremely low.
+	"hollow knight rare spawn" = true
+
+["ringed knight (overworld monster)"]
+	#Determines whether to set the spawn rate of 'ringed knight' to extremely low.
+	"ringed knight rare spawn" = true
+
+["executor (overworld monster)"]
+	#Determines whether to set the spawn rate of 'executor' to extremely low.
+	"executor rare spawn" = true
+
+["dark spirit (overworld monster)"]
+	#Determines whether to set the spawn rate of 'dark spirit' to extremely low.
+	"dark spirit rare spawn" = true
+
+["patches (overworld monster)"]
+	#Determines whether to set the spawn rate of 'patches' to extremely low.
+	"patches rare spawn" = true
+
+["havel (overworld monster)"]
+	#Determines whether to set the spawn rate of 'havel' to extremely low.
+	"havel rare spawn" = true
+
+["blasphemy knight (overworld monster)"]
+	#Determines whether to set the spawn rate of 'blasphemy knight' to extremely low.
+	"blasphemy knight rare spawn" = true
+
+["ghost samurai (overworld monster)"]
+	#Determines whether to set the spawn rate of 'ghost samurai' to extremely low.
+	"ghost samurai rare spawn" = true
+
+["tower knight (overworld monster)"]
+	#Determines whether to set the spawn rate of 'tower knight' to extremely low.
+	"tower knight rare spawn" = true
+
+["successor (overworld monster)"]
+	#Determines whether to set the spawn rate of 'successor' to extremely low.
+	"successor rare spawn" = true
+
+["godrick soldier (overworld monster)"]
+	#Determines whether to set the spawn rate of 'godrick soldier' to extremely low.
+	"godrick soldier rare spawn" = true
+
+["godrick knight (overworld monster)"]
+	#Determines whether to set the spawn rate of 'godrick knight' to extremely low.
+	"godrick knight rare spawn" = true
+
+["solaire (overworld NPC)"]
+	#Determines whether to set the spawn rate of 'solaire' to extremely low.
+	"solaire rare spawn" = true
+
+["siegmeyer (overworld NPC)"]
+	#Determines whether to set the spawn rate of 'siegmeyer' to extremely low.
+	"siegmeyer rare spawn" = true
+

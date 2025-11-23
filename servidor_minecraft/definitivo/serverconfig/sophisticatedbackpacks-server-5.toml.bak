@@ -1,0 +1,254 @@
+
+#Server Settings
+[server]
+	#List of items that are not allowed to be put in backpacks - e.g. "minecraft:shulker_box"
+	disallowedItems = []
+	#Determines if container items (those that override canFitInsideContainerItems to false) are able to fit in backpacks
+	containerItemsDisallowed = false
+	#List of blocks that inventory interaction upgrades can't interact with - e.g. "minecraft:shulker_box"
+	noInteractionBlocks = []
+	#List of blocks that are not allowed to connect to backpacks - e.g. "refinedstorage:external_storage"
+	noConnectionBlocks = []
+	#Maximum number of upgrades of type per backpack in format of "UpgradeRegistryName[or UpgradeGroup]|MaxNumber"
+	maxUpgradesPerStorage = ["stack_upgrades|3", "jukebox_upgrades|1", "furnace_upgrades|1"]
+	#Turns on/off item fluid handler of backpack in its item form. There are some dupe bugs caused by default fluid handling implementation that manifest when backpack is drained / filled in its item form in another mod's tank and the only way to prevent them is disallowing drain/fill in item form altogether
+	itemFluidHandlerEnabled = true
+	#Determines whether player can right click on backpack that another player is wearing to open it. If off will turn off that capability for everyone and remove related settings from backpack.
+	allowOpeningOtherPlayerBackpacks = true
+	#Allows disabling item display settings. Primarily in cases where custom backpack model doesn't support showing the item. (Requires game restart to take effect)
+	itemDisplayDisabled = false
+	#Allows disabling logic that dedupes backpacks with the same UUID in players' inventory. This is here to allow turning off the logic just in case it would be causing performance issues.
+	tickDedupeLogicDisabled = false
+	#Determines if backpacks can be placed in container items (those that check for return value of canFitInsideContainerItems)
+	canBePlacedInContainerItems = false
+
+	#Leather Backpack Settings
+	[server.leatherBackpack]
+		#Number of inventory slots in the backpack
+		#Range: 1 ~ 144
+		inventorySlotCount = 27
+		#Number of upgrade slots in the backpack
+		#Range: 0 ~ 10
+		upgradeSlotCount = 1
+
+	#Copper Backpack Settings
+	[server.copperBackpack]
+		#Number of inventory slots in the backpack
+		#Range: 1 ~ 144
+		inventorySlotCount = 45
+		#Number of upgrade slots in the backpack
+		#Range: 0 ~ 10
+		upgradeSlotCount = 1
+
+	#Iron Backpack Settings
+	[server.ironBackpack]
+		#Number of inventory slots in the backpack
+		#Range: 1 ~ 144
+		inventorySlotCount = 54
+		#Number of upgrade slots in the backpack
+		#Range: 0 ~ 10
+		upgradeSlotCount = 2
+
+	#Gold Backpack Settings
+	[server.goldBackpack]
+		#Number of inventory slots in the backpack
+		#Range: 1 ~ 144
+		inventorySlotCount = 81
+		#Number of upgrade slots in the backpack
+		#Range: 0 ~ 10
+		upgradeSlotCount = 3
+
+	#Diamond Backpack Settings
+	[server.diamondBackpack]
+		#Number of inventory slots in the backpack
+		#Range: 1 ~ 144
+		inventorySlotCount = 108
+		#Number of upgrade slots in the backpack
+		#Range: 0 ~ 10
+		upgradeSlotCount = 5
+
+	#Netherite Backpack Settings
+	[server.netheriteBackpack]
+		#Number of inventory slots in the backpack
+		#Range: 1 ~ 144
+		inventorySlotCount = 120
+		#Number of upgrade slots in the backpack
+		#Range: 0 ~ 10
+		upgradeSlotCount = 7
+
+	#Compacting Upgrade Settings
+	[server.compactingUpgrade]
+		#Number of Compacting Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 9
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 3
+
+	#Advanced Compacting Upgrade Settings
+	[server.advancedCompactingUpgrade]
+		#Number of Advanced Compacting Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 16
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+
+	#Deposit Upgrade Settings
+	[server.depositUpgrade]
+		#Number of Deposit Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 9
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 3
+
+	#Advanced Deposit Upgrade Settings
+	[server.advancedDepositUpgrade]
+		#Number of Advanced Deposit Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 16
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+
+	#Feeding Upgrade Settings
+	[server.feedingUpgrade]
+		#Number of Feeding Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 9
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 3
+
+	#Advanced Feeding Upgrade Settings
+	[server.advancedFeedingUpgrade]
+		#Number of Advanced Feeding Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 16
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+
+	#Filter Upgrade Settings
+	[server.filterUpgrade]
+		#Number of Filter Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 9
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 3
+
+	#Advanced Filter Upgrade Settings
+	[server.advancedFilterUpgrade]
+		#Number of Advanced Filter Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 16
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+
+	#Magnet Upgrade Settings
+	[server.magnetUpgrade]
+		#Number of Magnet Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 9
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 3
+		#Range around storage in blocks at which magnet will pickup items
+		#Range: 1 ~ 20
+		magnetRange = 3
+
+	#Advanced Magnet Upgrade Settings
+	[server.advancedMagnetUpgrade]
+		#Number of Advanced Magnet Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 16
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+		#Range around storage in blocks at which magnet will pickup items
+		#Range: 1 ~ 20
+		magnetRange = 5
+
+	#Pickup Upgrade Settings
+	[server.pickupUpgrade]
+		#Number of Pickup Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 9
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 3
+
+	#Advanced Pickup Upgrade Settings
+	[server.advancedPickupUpgrade]
+		#Number of Advanced Pickup Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 16
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+
+	#Refill Upgrade Settings
+	[server.refillUpgrade]
+		#Number of Refill Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 6
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 3
+
+	#Advanced Refill Upgrade Settings
+	[server.advancedRefillUpgrade]
+		#Number of Advanced Refill Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 12
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+
+	#Restock Upgrade Settings
+	[server.restockUpgrade]
+		#Number of Restock Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 9
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 3
+
+	#Advanced Restock Upgrade Settings
+	[server.advancedRestockUpgrade]
+		#Number of Advanced Restock Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 16
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+
+	#Void Upgrade Settings
+	[server.voidUpgrade]
+		#Number of Void Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 9
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 3
+		#Determines whether void upgrade allows voiding anything or it only has overflow option
+		voidAnythingEnabled = true
+
+	#Advanced Void Upgrade Settings
+	[server.advancedVoidUpgrade]
+		#Number of Advanced Void Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 16
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+		#Determines whether void upgrade allows voiding anything or it only has overflow option
+		voidAnythingEnabled = true
+
+	#Stack Upgrade Settings
+	[server.stackUpgrade]
+		#List of items that are not supposed to stack in storage even when stack upgrade is inserted. Item registry names are expected here.
+		nonStackableItems = ["minecraft:bundle", "minecraft:shulker_box", "minecraft:white_shulker_box", "minecraft:orange_shulker_box", "minecraft:magenta_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:pink_shulker_box", "minecraft:gray_shulk

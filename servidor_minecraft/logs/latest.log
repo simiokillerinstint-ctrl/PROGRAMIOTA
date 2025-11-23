@@ -1,0 +1,190 @@
+[23Nov2025 00:00:52.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lukichunx1[/127.107.119.76:34311] logged in with entity id 14928 at (3926.8343984541048, 33.28671999606371, 1564.3465208929667)
+[23Nov2025 00:01:31.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 joined the game
+[23Nov2025 00:01:31.910] [Server thread/INFO] [Jade/]: Syncing config to lukichunx1 (5b697cac-d0ad-3483-8b43-b0d80feb7d27)
+[23Nov2025 00:01:32.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lukichunx1 lost connection: Timed out
+[23Nov2025 00:01:32.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 left the game
+[23Nov2025 00:01:32.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40099ms or 801 ticks behind
+[23Nov2025 00:01:32.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: malffario lost connection: Disconnected
+[23Nov2025 00:01:32.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario left the game
+[23Nov2025 00:01:32.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAPU_MONO lost connection: Disconnected
+[23Nov2025 00:01:32.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO left the game
+[23Nov2025 00:01:32.272] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Nov2025 00:01:54.089] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b4f7c5b[id=<null>,name=PAPU_MONO,properties={},legacy=false] (/127.255.206.103:44887) lost connection: Disconnected
+[23Nov2025 00:02:01.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lukichunx1[/127.107.119.76:42085] logged in with entity id 14930 at (3926.8343984541048, 33.28671999606371, 1564.3465208929667)
+[23Nov2025 00:02:01.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 joined the game
+[23Nov2025 00:02:01.713] [Server thread/INFO] [Jade/]: Syncing config to lukichunx1 (5b697cac-d0ad-3483-8b43-b0d80feb7d27)
+[23Nov2025 00:02:07.202] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: malffario[/127.253.21.193:47409] logged in with entity id 15125 at (4449.714217996236, 76.5, -538.3000000119209)
+[23Nov2025 00:02:07.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario joined the game
+[23Nov2025 00:02:07.218] [Server thread/INFO] [Jade/]: Syncing config to malffario (ecfd61e7-a890-3976-a776-32a4fcb10c86)
+[23Nov2025 00:02:09.951] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46492b2e[id=<null>,name=PAPU_MONO,properties={},legacy=false] (/127.255.206.103:52319) lost connection: Disconnected
+[23Nov2025 00:02:12.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lukichunx1> a
+[23Nov2025 00:02:14.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAPU_MONO[/127.255.206.103:49595] logged in with entity id 15499 at (4303.88570349608, 78.23050451123756, -493.9536735414097)
+[23Nov2025 00:02:14.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO joined the game
+[23Nov2025 00:02:14.504] [Server thread/INFO] [Jade/]: Syncing config to PAPU_MONO (b50e0136-0b57-3669-b947-695799b820b6)
+[23Nov2025 00:03:16.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario has made the advancement [Diamonds!]
+[23Nov2025 00:04:41.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4443, y=80, z=-507} BlockPos{x=4442, y=78, z=-506}
+[23Nov2025 00:05:44.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAPU_MONO lost connection: Timed out
+[23Nov2025 00:05:44.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO left the game
+[23Nov2025 00:06:23.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario has made the advancement [Enchanter]
+[23Nov2025 00:07:31.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAPU_MONO[/127.255.206.103:47455] logged in with entity id 18552 at (4234.095219671081, 137.0, -488.51269011681495)
+[23Nov2025 00:07:31.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO joined the game
+[23Nov2025 00:07:31.502] [Server thread/INFO] [Jade/]: Syncing config to PAPU_MONO (b50e0136-0b57-3669-b947-695799b820b6)
+[23Nov2025 00:08:31.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAPU_MONO lost connection: Timed out
+[23Nov2025 00:08:31.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO left the game
+[23Nov2025 00:08:45.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4405, y=82, z=-506} BlockPos{x=4404, y=82, z=-505}
+[23Nov2025 00:08:45.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4405, y=82, z=-506} BlockPos{x=4404, y=82, z=-505}
+[23Nov2025 00:08:45.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4405, y=82, z=-506} BlockPos{x=4404, y=82, z=-505}
+[23Nov2025 00:09:06.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4397, y=86, z=-495} BlockPos{x=4396, y=85, z=-496}
+[23Nov2025 00:09:07.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4395, y=84, z=-496} BlockPos{x=4396, y=84, z=-495}
+[23Nov2025 00:09:07.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4395, y=84, z=-496} BlockPos{x=4396, y=84, z=-495}
+[23Nov2025 00:09:07.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4395, y=84, z=-496} BlockPos{x=4396, y=84, z=-495}
+[23Nov2025 00:09:08.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4395, y=87, z=-497} BlockPos{x=4394, y=83, z=-499}
+[23Nov2025 00:09:08.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4395, y=87, z=-497} BlockPos{x=4394, y=83, z=-499}
+[23Nov2025 00:09:08.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4395, y=87, z=-497} BlockPos{x=4394, y=83, z=-499}
+[23Nov2025 00:10:58.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4413, y=80, z=-511} BlockPos{x=4412, y=79, z=-510}
+[23Nov2025 00:10:58.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4413, y=80, z=-511} BlockPos{x=4412, y=79, z=-510}
+[23Nov2025 00:10:58.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4413, y=80, z=-511} BlockPos{x=4412, y=79, z=-510}
+[23Nov2025 00:10:58.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4413, y=80, z=-511} BlockPos{x=4412, y=79, z=-510}
+[23Nov2025 00:10:58.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4413, y=80, z=-511} BlockPos{x=4412, y=79, z=-510}
+[23Nov2025 00:10:58.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4413, y=80, z=-511} BlockPos{x=4412, y=79, z=-510}
+[23Nov2025 00:11:25.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4427, y=80, z=-497} BlockPos{x=4428, y=79, z=-497}
+[23Nov2025 00:11:26.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4426, y=80, z=-497} BlockPos{x=4426, y=79, z=-495}
+[23Nov2025 00:11:26.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4426, y=80, z=-497} BlockPos{x=4426, y=79, z=-495}
+[23Nov2025 00:11:26.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4426, y=80, z=-497} BlockPos{x=4426, y=79, z=-495}
+[23Nov2025 00:11:26.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4426, y=80, z=-497} BlockPos{x=4426, y=79, z=-495}
+[23Nov2025 00:12:30.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario has made the advancement [Mine Treasure]
+[23Nov2025 00:12:30.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario has made the advancement [First Treasure!]
+[23Nov2025 00:12:32.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario has made the advancement [Stone Age]
+[23Nov2025 00:12:34.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario has made the advancement [Barrel Booty]
+[23Nov2025 00:12:34.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario has made the advancement [Going With The Norm]
+[23Nov2025 00:13:48.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4447, y=80, z=-479} BlockPos{x=4448, y=79, z=-479}
+[23Nov2025 00:13:48.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4447, y=80, z=-482} BlockPos{x=4448, y=79, z=-480}
+[23Nov2025 00:15:55.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4434, y=80, z=-480} BlockPos{x=4436, y=78, z=-479}
+[23Nov2025 00:17:38.749] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:17:38.749] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:17:38.749] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:17:38.750] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:17:38.750] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:17:38.750] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:18:05.643] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:18:07.393] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:18:07.843] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:18:22.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario has made the advancement [Rare Find!]
+[23Nov2025 00:18:23.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario has made the advancement [We're Getting There]
+[23Nov2025 00:18:34.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4433, y=80, z=-499} BlockPos{x=4433, y=78, z=-500}
+[23Nov2025 00:18:34.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4433, y=80, z=-499} BlockPos{x=4433, y=78, z=-500}
+[23Nov2025 00:18:34.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4434, y=79, z=-499} BlockPos{x=4433, y=78, z=-500}
+[23Nov2025 00:18:44.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4439, y=80, z=-505} BlockPos{x=4440, y=78, z=-505}
+[23Nov2025 00:18:45.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4440, y=80, z=-505} BlockPos{x=4440, y=78, z=-503}
+[23Nov2025 00:18:48.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lukichunx1 lost connection: Timed out
+[23Nov2025 00:18:48.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 left the game
+[23Nov2025 00:18:55.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4433, y=80, z=-547} BlockPos{x=4432, y=79, z=-546}
+[23Nov2025 00:19:21.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lukichunx1[/127.107.119.76:38427] logged in with entity id 24322 at (4447.539344336653, 79.0, -495.76204884432644)
+[23Nov2025 00:19:21.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 joined the game
+[23Nov2025 00:19:21.693] [Server thread/INFO] [Jade/]: Syncing config to lukichunx1 (5b697cac-d0ad-3483-8b43-b0d80feb7d27)
+[23Nov2025 00:19:51.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lukichunx1 lost connection: Timed out
+[23Nov2025 00:19:51.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 left the game
+[23Nov2025 00:20:20.244] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /127.255.206.103:41205: Took too long to log in
+[23Nov2025 00:20:20.244] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.255.206.103:41205 lost connection: Took too long to log in
+[23Nov2025 00:20:20.294] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Nov2025 00:20:28.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lukichunx1[/127.107.119.76:47213] logged in with entity id 24948 at (4447.539344336653, 79.0, -495.76204884432644)
+[23Nov2025 00:20:28.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 joined the game
+[23Nov2025 00:20:28.146] [Server thread/INFO] [Jade/]: Syncing config to lukichunx1 (5b697cac-d0ad-3483-8b43-b0d80feb7d27)
+[23Nov2025 00:20:47.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAPU_MONO[/127.255.206.103:37951] logged in with entity id 25127 at (4234.095219671081, 137.0, -488.51269011681495)
+[23Nov2025 00:20:47.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO joined the game
+[23Nov2025 00:20:47.050] [Server thread/INFO] [Jade/]: Syncing config to PAPU_MONO (b50e0136-0b57-3669-b947-695799b820b6)
+[23Nov2025 00:20:58.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lukichunx1 lost connection: Timed out
+[23Nov2025 00:20:58.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 left the game
+[23Nov2025 00:21:40.745] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:22:11.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lukichunx1[/127.107.119.76:52405] logged in with entity id 25816 at (4447.539344336653, 79.0, -495.76204884432644)
+[23Nov2025 00:22:11.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 joined the game
+[23Nov2025 00:22:11.435] [Server thread/INFO] [Jade/]: Syncing config to lukichunx1 (5b697cac-d0ad-3483-8b43-b0d80feb7d27)
+[23Nov2025 00:22:43.044] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:22:49.643] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:23:17.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAPU_MONO lost connection: Timed out
+[23Nov2025 00:23:17.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO left the game
+[23Nov2025 00:24:23.947] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@145fde25[id=<null>,name=PAPU_MONO,properties={},legacy=false] (/127.255.206.103:53523) lost connection: Disconnected
+[23Nov2025 00:24:24.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: malffario lost connection: Disconnected
+[23Nov2025 00:24:24.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario left the game
+[23Nov2025 00:24:33.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: malffario[/127.253.21.193:36781] logged in with entity id 26605 at (4392.542051617529, 87.0, -512.4231142954131)
+[23Nov2025 00:24:33.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario joined the game
+[23Nov2025 00:24:33.918] [Server thread/INFO] [Jade/]: Syncing config to malffario (ecfd61e7-a890-3976-a776-32a4fcb10c86)
+[23Nov2025 00:24:36.817] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2380a4f9[id=<null>,name=PAPU_MONO,properties={},legacy=false] (/127.255.206.103:58127) lost connection: Disconnected
+[23Nov2025 00:24:41.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAPU_MONO[/127.255.206.103:51701] logged in with entity id 26632 at (4234.095219671081, 137.0, -488.51269011681495)
+[23Nov2025 00:24:41.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO joined the game
+[23Nov2025 00:24:41.602] [Server thread/INFO] [Jade/]: Syncing config to PAPU_MONO (b50e0136-0b57-3669-b947-695799b820b6)
+[23Nov2025 00:24:55.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4386, y=88, z=-510} BlockPos{x=4386, y=87, z=-511}
+[23Nov2025 00:24:57.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4390, y=88, z=-506} BlockPos{x=4390, y=87, z=-505}
+[23Nov2025 00:25:26.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAPU_MONO lost connection: Timed out
+[23Nov2025 00:25:26.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO left the game
+[23Nov2025 00:25:58.327] [DefaultDispatcher-worker-1/WARN] [tpaplusplus/]: You are running an outdated version of TPA++, latest version: 1.6.0-1.20.x-UNTESTED-BETA-3, your version: 1.6.0-1.20.x-RELEASE-CANDIDATE-1!
+[23Nov2025 00:25:58.328] [DefaultDispatcher-worker-1/WARN] [tpaplusplus/]: You are 1 version(s) out of date!
+[23Nov2025 00:26:05.197] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a8c9ee5[id=<null>,name=PAPU_MONO,properties={},legacy=false] (/127.255.206.103:34659) lost connection: Disconnected
+[23Nov2025 00:26:31.794] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f85300d[id=<null>,name=PAPU_MONO,properties={},legacy=false] (/127.255.206.103:42507) lost connection: Disconnected
+[23Nov2025 00:26:37.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAPU_MONO[/127.255.206.103:57301] logged in with entity id 27654 at (4189.967315371488, 109.71589434553837, -381.70599482392174)
+[23Nov2025 00:26:37.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO joined the game
+[23Nov2025 00:26:37.847] [Server thread/INFO] [Jade/]: Syncing config to PAPU_MONO (b50e0136-0b57-3669-b947-695799b820b6)
+[23Nov2025 00:26:54.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU_MONO: Teleported PAPU_MONO to lukichunx1]
+[23Nov2025 00:28:38.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAPU_MONO lost connection: Timed out
+[23Nov2025 00:28:38.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO left the game
+[23Nov2025 00:32:08.192] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:32:57.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAPU_MONO[/127.116.149.66:56585] logged in with entity id 29419 at (4341.1021383147145, 81.0, -527.1925608533994)
+[23Nov2025 00:32:57.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO joined the game
+[23Nov2025 00:32:57.791] [Server thread/INFO] [Jade/]: Syncing config to PAPU_MONO (b50e0136-0b57-3669-b947-695799b820b6)
+[23Nov2025 00:34:12.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAPU_MONO lost connection: Timed out
+[23Nov2025 00:34:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO left the game
+[23Nov2025 00:35:06.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAPU_MONO[/127.116.149.66:53371] logged in with entity id 29913 at (4375.200031180866, 90.0, -540.7113560675734)
+[23Nov2025 00:35:06.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO joined the game
+[23Nov2025 00:35:06.341] [Server thread/INFO] [Jade/]: Syncing config to PAPU_MONO (b50e0136-0b57-3669-b947-695799b820b6)
+[23Nov2025 00:35:32.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lukichunx1 lost connection: Disconnected
+[23Nov2025 00:35:32.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 left the game
+[23Nov2025 00:35:39.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lukichunx1[/127.107.119.76:38979] logged in with entity id 30034 at (4435.127761500157, 79.0, -511.50169674865805)
+[23Nov2025 00:35:39.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 joined the game
+[23Nov2025 00:35:39.085] [Server thread/INFO] [Jade/]: Syncing config to lukichunx1 (5b697cac-d0ad-3483-8b43-b0d80feb7d27)
+[23Nov2025 00:36:39.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lukichunx1 lost connection: Timed out
+[23Nov2025 00:37:16.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 left the game
+[23Nov2025 00:37:16.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37360ms or 747 ticks behind
+[23Nov2025 00:37:17.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: malffario lost connection: Disconnected
+[23Nov2025 00:37:17.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario left the game
+[23Nov2025 00:37:17.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAPU_MONO lost connection: Disconnected
+[23Nov2025 00:37:17.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO left the game
+[23Nov2025 00:37:17.361] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62d25ecd[id=<null>,name=lukichunx1,properties={},legacy=false] (/127.107.119.76:40517) lost connection: Disconnected
+[23Nov2025 00:37:28.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lukichunx1[/127.107.119.76:40889] logged in with entity id 30311 at (4435.127761500157, 79.0, -511.50169674865805)
+[23Nov2025 00:37:28.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 joined the game
+[23Nov2025 00:37:28.096] [Server thread/INFO] [Jade/]: Syncing config to lukichunx1 (5b697cac-d0ad-3483-8b43-b0d80feb7d27)
+[23Nov2025 00:37:37.096] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@dbe3163[id=<null>,name=PAPU_MONO,properties={},legacy=false] (/127.116.149.66:46727) lost connection: Disconnected
+[23Nov2025 00:37:48.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: malffario[/127.253.21.193:42343] logged in with entity id 30609 at (4398.209979363675, 86.0, -493.04887522665365)
+[23Nov2025 00:37:48.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario joined the game
+[23Nov2025 00:37:48.792] [Server thread/INFO] [Jade/]: Syncing config to malffario (ecfd61e7-a890-3976-a776-32a4fcb10c86)
+[23Nov2025 00:37:52.046] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62b68548[id=<null>,name=PAPU_MONO,properties={},legacy=false] (/127.116.149.66:57513) lost connection: Disconnected
+[23Nov2025 00:37:56.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAPU_MONO[/127.116.149.66:38353] logged in with entity id 30655 at (4432.251363741309, 79.0, -509.78710965481014)
+[23Nov2025 00:37:56.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO joined the game
+[23Nov2025 00:37:56.991] [Server thread/INFO] [Jade/]: Syncing config to PAPU_MONO (b50e0136-0b57-3669-b947-695799b820b6)
+[23Nov2025 00:40:57.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAPU_MONO lost connection: Timed out
+[23Nov2025 00:40:57.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO left the game
+[23Nov2025 00:41:06.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <malffario> obrigado deus
+[23Nov2025 00:41:08.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lukichunx1> los diamantes
+[23Nov2025 00:41:12.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lukichunx1> pasamelos
+[23Nov2025 00:41:44.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAPU_MONO[/127.116.149.66:55847] logged in with entity id 32016 at (4408.1728378104435, 83.24918707874468, -527.0630895994957)
+[23Nov2025 00:41:44.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO joined the game
+[23Nov2025 00:41:44.141] [Server thread/INFO] [Jade/]: Syncing config to PAPU_MONO (b50e0136-0b57-3669-b947-695799b820b6)
+[23Nov2025 00:43:13.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lukichunx1 lost connection: Timed out
+[23Nov2025 00:43:13.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 left the game
+[23Nov2025 00:43:31.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lukichunx1[/127.107.119.76:43813] logged in with entity id 32671 at (4436.469875798246, 79.0, -508.66541625841427)
+[23Nov2025 00:43:31.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 joined the game
+[23Nov2025 00:43:31.044] [Server thread/INFO] [Jade/]: Syncing config to lukichunx1 (5b697cac-d0ad-3483-8b43-b0d80feb7d27)
+[23Nov2025 00:44:14.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAPU_MONO lost connection: Timed out
+[23Nov2025 00:44:14.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPU_MONO left the game
+[23Nov2025 00:46:39.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: malffario has made the advancement [Acquire Hardware]
+[23Nov2025 00:47:42.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukichunx1 has completed the challenge [Cover Me in Debris]
+[23Nov2025 00:48:16.845] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:48:16.846] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:48:16.846] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:48:16.846] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:48:16.846] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:48:16.846] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:48:30.993] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:48:31.293] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:48:33.743] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:48:41.243] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[23Nov2025 00:48:43.897] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
